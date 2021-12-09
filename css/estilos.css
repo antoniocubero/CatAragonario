@@ -4,14 +4,6 @@
     --grey-light: #f3f3f3;
     --grey-light2: #dcdcdc;
 }
-/* @font-face {
-    font-family: "fontReg";
-    src: url("../fonts/Charter.otf");
-}
-@font-face {
-    font-family: "fontBold";
-    src: url("../fonts/CharterBold.otf");
-} */
 body{
     border: 0;
     padding: 0 7%;
